@@ -1,0 +1,9 @@
+al inicia la plicacion se debe hacer la solicitud del token mediante postman 
+ post https://accounts.spotify.com/api/token
+llenado la infomacion 
+key                               value
+grant_type               https://accounts.spotify.com/api/token
+client_id                se genera al iniciar sesion en spotify
+client_secret            se genera al iniciar sesion de spotify
+
+y modificandola en el servcio
